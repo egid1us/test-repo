@@ -1,0 +1,6 @@
+Rencana bahasa pemrograman:
+ - HTML
+ - CSS
+ - JavaScript
+ - PHP
+ - Android
