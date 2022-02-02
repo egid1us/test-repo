@@ -1,7 +1,9 @@
 Rencana bahasa pemrograman:
  - HTML
  - CSS (Bootstrap Framework)
- - JavaScript
- - PHP
+ - JavaScript Framework
+  - React
+ - PHP Framework
+  - Laravel
  - Android (Java)
  - Python
