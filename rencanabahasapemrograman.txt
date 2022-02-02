@@ -1,6 +1,6 @@
 Rencana bahasa pemrograman:
  - HTML
- - CSS
+ - CSS (Bootstrap Framework)
  - JavaScript
  - PHP
  - Android (Java)
