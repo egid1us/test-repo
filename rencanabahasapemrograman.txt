@@ -5,6 +5,7 @@ Rencana bahasa pemrograman:
  - JavaScript Framework
   - React
   - Vue
- - PHP
+ - PHP Framework
+  - Codeigniter
  - Android (Java)
  - Python
