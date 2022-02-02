@@ -3,4 +3,5 @@ Rencana bahasa pemrograman:
  - CSS
  - JavaScript
  - PHP
- - Android
+ - Android (Java)
+ - Python
